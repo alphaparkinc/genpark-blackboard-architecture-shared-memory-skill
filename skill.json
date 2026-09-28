@@ -1,0 +1,9 @@
+{
+  "schema_version": "v1",
+  "name": "genpark-blackboard-architecture-shared-memory-skill",
+  "version": "1.0.0",
+  "description": "Blackboard pattern architecture for multi-agent coordination with Knowledge Sources and prioritized agenda controller.",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service"
+}
