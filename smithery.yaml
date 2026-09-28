@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-blackboard-architecture-shared-memory-skill
+name: genpark-blackboard-architecture-shared-memory-skill
+version: 1.0.0
+runtime: python
+entrypoint: mcp_server.py
+type: stdio
